@@ -1,2 +1,7 @@
 # hello-world
-repository
+I'm indhu
+
+Computer Science Engineer
+
+
+
