@@ -1,6 +1,7 @@
 # hello-world
 I'm indhu
-Computer Engineer
+
+Computer Science Engineer
 
 
 
